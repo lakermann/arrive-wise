@@ -1,0 +1,8 @@
+${AnsiColor.GREEN}
+    _           _          __      ___
+   /_\  _ _ _ _(_)_ _____  \ \    / (_)___ ___
+  / _ \| '_| '_| \ V / -_)  \ \/\/ /| (_-</ -_)
+ /_/ \_\_| |_| |_|\_/\___|   \_/\_/ |_/__/\___|
+
+${AnsiStyle.BOLD}${spring.application.name}${AnsiStyle.NORMAL}
+${AnsiColor.DEFAULT}Swiss connections, optimized for arrival
